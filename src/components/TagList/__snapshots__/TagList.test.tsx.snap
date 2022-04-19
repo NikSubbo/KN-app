@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TagList should match the snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-wrap"
+  >
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      PDF
+    </div>
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      Change
+    </div>
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      Create
+    </div>
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      Maintenance
+    </div>
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      Business
+    </div>
+    <div
+      class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+    >
+      FoxIT
+    </div>
+  </div>
+</div>
+`;

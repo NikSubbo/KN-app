@@ -1,0 +1,29 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "env": {
+    "browser": true,
+    "jest": true
+  },
+  "root": true,
+  "plugins": [
+    "@typescript-eslint",
+    "import",
+    "jsx-a11y",
+    "react",
+    "prettier"
+  ],
+  "extends": [
+    "airbnb-typescript",
+    "react-app",
+    "prettier"
+  ],
+  "parserOptions": {
+    "project": [
+      "./tsconfig.json"
+    ]
+  },
+  "rules": {
+    "no-console": 1,
+    "prettier/prettier": 2
+  }
+}

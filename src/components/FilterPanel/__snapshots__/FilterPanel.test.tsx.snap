@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterPanel should match the snapshot 1`] = `
+<div>
+  <div
+    class="flex mt-8 mb-5 justify-between flex-wrap"
+  >
+    <div
+      class="mr-6"
+    >
+      <label
+        class="inline-flex items-center text-darkGray font-medium text-sm cursor-pointer"
+        for="Software Development"
+      >
+        <input
+          class="w-4 h-4 mr-2.5 accent-aqua cursor-pointer"
+          id="Software Development"
+          name="Software Development"
+          type="checkbox"
+          value="Software Development"
+        />
+        Software Development
+      </label>
+    </div>
+    <div
+      class="mr-6"
+    >
+      <label
+        class="inline-flex items-center text-darkGray font-medium text-sm cursor-pointer"
+        for="Daily Business"
+      >
+        <input
+          class="w-4 h-4 mr-2.5 accent-aqua cursor-pointer"
+          id="Daily Business"
+          name="Daily Business"
+          type="checkbox"
+          value="Daily Business"
+        />
+        Daily Business
+      </label>
+    </div>
+    <div
+      class="mr-6"
+    >
+      <label
+        class="inline-flex items-center text-darkGray font-medium text-sm cursor-pointer"
+        for="Graphic Editors"
+      >
+        <input
+          class="w-4 h-4 mr-2.5 accent-aqua cursor-pointer"
+          id="Graphic Editors"
+          name="Graphic Editors"
+          type="checkbox"
+          value="Graphic Editors"
+        />
+        Graphic Editors
+      </label>
+    </div>
+    <div
+      class="mr-6"
+    >
+      <label
+        class="inline-flex items-center text-darkGray font-medium text-sm cursor-pointer"
+        for="Text Editors"
+      >
+        <input
+          class="w-4 h-4 mr-2.5 accent-aqua cursor-pointer"
+          id="Text Editors"
+          name="Text Editors"
+          type="checkbox"
+          value="Text Editors"
+        />
+        Text Editors
+      </label>
+    </div>
+    <div
+      class="mr-6"
+    >
+      <label
+        class="inline-flex items-center text-darkGray font-medium text-sm cursor-pointer"
+        for="Management Tools"
+      >
+        <input
+          class="w-4 h-4 mr-2.5 accent-aqua cursor-pointer"
+          id="Management Tools"
+          name="Management Tools"
+          type="checkbox"
+          value="Management Tools"
+        />
+        Management Tools
+      </label>
+    </div>
+  </div>
+</div>
+`;

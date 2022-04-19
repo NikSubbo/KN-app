@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList should match the snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col space-y-2"
+  >
+    <button
+      class="flex justify-between bg-white rounded shadow-sm py-3.5 px-6"
+    >
+      <div>
+        <h3
+          class="text-sm font-medium text-black text-left"
+        >
+          Foxit software PhantomPDF Standard
+        </h3>
+        <div
+          class="mt-1 flex flex-wrap"
+        >
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            PDF
+          </div>
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            Change
+          </div>
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            Create
+          </div>
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            Maintenance
+          </div>
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            Business
+          </div>
+          <div
+            class="text-xs font-medium text-aqua px-2 py-1 rounded bg-aquaLight mr-2 mt-2"
+          >
+            FoxIT
+          </div>
+        </div>
+      </div>
+      <p
+        class="flex self-center text-darkGray text-sm whitespace-nowrap ml-4"
+      >
+        Text Editors
+      </p>
+    </button>
+    <button
+      class="flex justify-between bg-white rounded shadow-sm py-3.5 px-6"
+    >
+      <div>
+        <h3
+          class="text-sm font-medium text-black text-left"
+        >
+          Foxit Software PhantomPDF Business
+        </h3>
+      </div>
+      <p
+        class="flex self-center text-darkGray text-sm whitespace-nowrap ml-4"
+      >
+        Text Editors
+      </p>
+    </button>
+  </div>
+</div>
+`;

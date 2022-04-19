@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search should match the snapshot 1`] = `
+<div>
+  <div
+    class="flex bg-smoke border-1 border-lightGray rounded-sm p-1.5"
+  >
+    <svg>
+      search.svg
+    </svg>
+    <input
+      class="bg-smoke ml-1 pl-2 focus:outline-none w-full"
+      placeholder="Type here..."
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;

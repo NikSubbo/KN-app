@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton should match the snapshot 1`] = `
+<div>
+  <div
+    class="inline-flex items-center cursor-pointer"
+  >
+    <input
+      class="w-4 h-4 mr-2 peer cursor-pointer"
+      id="option"
+      name="radioBtn"
+      type="radio"
+    />
+    <label
+      class="font-medium text-sm text-darkGray peer-checked:text-black cursor-pointer"
+      for="option"
+    >
+      option
+    </label>
+  </div>
+</div>
+`;
